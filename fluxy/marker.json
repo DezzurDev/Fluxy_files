@@ -54,5 +54,21 @@
     "z": 165,
     "timestamp": 1781186099085,
     "owner": "Dezzur"
+  },
+  {
+    "id": 7,
+    "x": 138,
+    "y": 61,
+    "z": 166,
+    "timestamp": 1781186099647,
+    "owner": "Dezzur"
+  },
+  {
+    "id": 8,
+    "x": 135,
+    "y": 61,
+    "z": 167,
+    "timestamp": 1781186100789,
+    "owner": "Dezzur"
   }
 ]
